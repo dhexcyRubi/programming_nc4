@@ -1,3 +1,5 @@
+## Member 3 Desoyo / Sta. Rita
+
 ## Setup & Run (Web)
 1. flutter config --enable-web
 2. flutter run -d chrome
@@ -7,3 +9,4 @@
 - git add .
 - git commit -m "feat: add Hello World! home screen"
 - git push
+
